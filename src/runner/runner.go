@@ -64,3 +64,7 @@ func (r *Runner) Start() error {
 		return ErrTimeout
 	}
 }
+
+func Ctrl(){
+
+}
